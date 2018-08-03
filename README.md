@@ -1,5 +1,5 @@
 # whatsapp-web-group-creator
- Web.whatsapp automated group creation Script spammer. Selenium based.
+ Web.whatsapp.com automated group creation Script spammer. Python and Selenium based. The easiest way to lose friends.
 
 How to run
 - python wa_group_spam.py
