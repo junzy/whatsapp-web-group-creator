@@ -10,7 +10,7 @@ number_of_times = 10
 listNames = ['junaid']
 
 ### List of group names that are randomly chosen from
-listGroups = ['ballsack', 'welikeballsacks', 'ballsacksunlimited', 'wrinkledballsacksucks']
+listGroups = ['group1', 'group2', 'group3', 'group4']
 
 
 ### Selenium automation
